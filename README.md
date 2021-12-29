@@ -1,1 +1,1 @@
-# Computer_Graphics_Capstone_Design
+컴퓨터 그래픽스 설계 과제 제출물 모음입니다.
